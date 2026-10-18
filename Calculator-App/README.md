@@ -1,6 +1,6 @@
 # Calculator Application
 
-**Project link: https://github.com/Thakkella/python-calculator-cicd
+**Project link: https://github.com/Thakkella/python-calculator-cicd**
 
 ## Deployed a small Flask calculator application using CI/CD with GitHub Actions to Azure App Service (Linux)
 
