@@ -2,7 +2,7 @@
 
 **Project link: https://github.com/Thakkella/example-voting-app-project**
 
-**Reference links**
+**Reference links:**
 **https://argo-cd.readthedocs.io/en/stable/getting_started/**
 
 **https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/**
