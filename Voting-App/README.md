@@ -4,7 +4,9 @@
 
 **Reference links**
 **https://argo-cd.readthedocs.io/en/stable/getting_started/**
+
 **https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/**
+
 **https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/linux-agent?view=azure-devops&tabs=IP-V4**
 
 ## Imported the repository from GitHub
